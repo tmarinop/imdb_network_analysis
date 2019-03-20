@@ -1,5 +1,5 @@
 # imdb_network_analysis
-Network analysis from Kaggle Imdb Dataset using Gephi and Python
+Network analysis from Kaggle Imdb Dataset using Gephi, Java and Python
 
 -all_movies: gephi project, nodes, edges for all movies
 -low_movies: gephi project, nodes, edges for low rated movies
